@@ -8,6 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="WelcomeAudio.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="WelcomeAudio.wav" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.Windows.Extensions" Version="9.0.4" />
   </ItemGroup>
 
