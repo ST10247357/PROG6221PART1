@@ -105,6 +105,9 @@ Tutorialsteacher, 2025. C# dictionary, C# - Dictionary.[online] Available at: <h
 Moore, M. 2025. Top cybersecurity threats [2025]. University of San Diego Online Degrees, [Blog] 23 January. Available at: <https://onlinedegrees.sandiego.edu/top-cyber-security-threats/#:~:text=Malware%20continues%20to%20be%20prevalent,to%20steal%20or%20manipulate%20information> [Accessed 16 April 2025]. 
 Lindemulder, G. and Kosinski, M. 2024. What is cybersecurity?. [online] Available at: <https://www.ibm.com/think/topics/cybersecurity#:~:text=a%20single%20console.-,Common%20cybersecurity%20threats,Ransomware> [Accessed 16 April 2025].  
 W3schools, 2025. C# Exceptions (Try..Catch). [online] Available at: <https://www.w3schools.com/cs/cs_exceptions.php> [Accessed 16 April 2025].
+pngtree, 2025. Bots Clipart Vector, Chatbot Linear Icon Chat Bot, Instant, Headset, Sign PNG Image For Free Download. [image online] Available at: <https://pin.it/6VdvJjW5Q> [Accessed 16 April 2025].
+ElevenLabs, 2025. Text to Speech with high quality, human-like AI voice generator. [online] Available at: <https://elevenlabs.io/text-to-speech?utm_source=google&utm_medium=cpc&utm_campaign=t2_nonbrandsearch_voicegen_english&utm_id=21540667164&utm_term=ai%20voice%20generator%20free&utm_content=voicegen_exact&gad_source=1&gclid=Cj0KCQjwh_i_BhCzARIsANimeoF2CE6L3sRz2osNqpdO1qvXk4ZHehWM23jMgkIlZ7oMIY-XldtowmkaAoJ3EALw_wcB> [Accessed 16 April 2025].
+ 
 
 ## Author
 Gia Jenica Gounden
